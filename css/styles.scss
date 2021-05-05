@@ -63,6 +63,7 @@ body{
             position: absolute;
             top: 0;
             left: 0;
+
             min-height: 300px;
         }
     }
@@ -79,13 +80,14 @@ body{
 	background:$background-dark;
 	color:floralwhite;
 	
-	button {
+    button {
 		color:floralwhite;
 	}
 }
 .modal-body {
 	background:$background-pale;
 }
+
 .modal-footer {
 	background:$background-light;
 }
